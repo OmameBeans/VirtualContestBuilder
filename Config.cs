@@ -13,9 +13,9 @@ namespace VirtualContestBuilder
         [
             new() {
                 Id = "44046b60-4810-4f3f-962f-b199e70ed668",
-                Name = "obicvirtualcontest",
-                Title = "OBICバーチャルコンテスト",
-                Memo = "社内バーチャルコンテストです。出題はABCのみからで、難易度は灰灰茶茶緑緑水水です。試験管は含みません。",
+                Name = "virtualcontest",
+                Title = "バーチャルコンテスト",
+                Memo = "出題はABCのみからで、難易度は灰灰茶茶緑緑水水です。試験管は含みません。",
                 EveryDayStartTime = new TimeSpan(21,0,0),
                 DurationSeconds = 7200,
                 PenaltySeconds = 300,
